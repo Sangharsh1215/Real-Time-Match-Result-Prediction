@@ -1,0 +1,381 @@
+Wk,Day,Date,Time,Home,xG,Score,xG.1,Away
+1.0,Fri,2024-08-16,20:00,Manchester Utd,2.4,1–0,0.4,Fulham
+1.0,Sat,2024-08-17,12:30,Ipswich Town,0.5,0–2,2.6,Liverpool
+1.0,Sat,2024-08-17,15:00,Newcastle Utd,0.3,1–0,1.8,Southampton
+1.0,Sat,2024-08-17,15:00,Nott'ham Forest,1.3,1–1,1.2,Bournemouth
+1.0,Sat,2024-08-17,15:00,Everton,0.5,0–3,1.4,Brighton
+1.0,Sat,2024-08-17,15:00,Arsenal,1.2,2–0,0.5,Wolves
+1.0,Sat,2024-08-17,17:30,West Ham,2.3,1–2,2.0,Aston Villa
+1.0,Sun,2024-08-18,14:00,Brentford,1.6,2–1,1.2,Crystal Palace
+1.0,Sun,2024-08-18,16:30,Chelsea,1.0,0–2,0.8,Manchester City
+1.0,Mon,2024-08-19,20:00,Leicester City,1.0,1–1,1.2,Tottenham
+2.0,Sat,2024-08-24,12:30,Brighton,2.1,2–1,1.4,Manchester Utd
+2.0,Sat,2024-08-24,15:00,Tottenham,2.4,4–0,1.0,Everton
+2.0,Sat,2024-08-24,15:00,Fulham,1.8,2–1,0.6,Leicester City
+2.0,Sat,2024-08-24,15:00,Crystal Palace,1.3,0–2,1.4,West Ham
+2.0,Sat,2024-08-24,15:00,Manchester City,3.3,4–1,0.3,Ipswich Town
+2.0,Sat,2024-08-24,15:00,Southampton,0.1,0–1,2.2,Nott'ham Forest
+2.0,Sat,2024-08-24,17:30,Aston Villa,1.2,0–2,0.9,Arsenal
+2.0,Sun,2024-08-25,14:00,Bournemouth,2.2,1–1,1.6,Newcastle Utd
+2.0,Sun,2024-08-25,14:00,Wolves,1.9,2–6,1.6,Chelsea
+2.0,Sun,2024-08-25,16:30,Liverpool,2.5,2–0,0.5,Brentford
+3.0,Sat,2024-08-31,12:30,Arsenal,2.1,1–1,1.7,Brighton
+3.0,Sat,2024-08-31,15:00,Everton,1.8,2–3,2.4,Bournemouth
+3.0,Sat,2024-08-31,15:00,Leicester City,0.4,1–2,1.4,Aston Villa
+3.0,Sat,2024-08-31,15:00,Nott'ham Forest,1.0,1–1,0.7,Wolves
+3.0,Sat,2024-08-31,15:00,Ipswich Town,0.4,1–1,0.9,Fulham
+3.0,Sat,2024-08-31,15:00,Brentford,2.8,3–1,1.5,Southampton
+3.0,Sat,2024-08-31,17:30,West Ham,0.7,1–3,3.0,Manchester City
+3.0,Sun,2024-09-01,13:30,Newcastle Utd,1.8,2–1,1.2,Tottenham
+3.0,Sun,2024-09-01,13:30,Chelsea,2.4,1–1,0.5,Crystal Palace
+3.0,Sun,2024-09-01,16:00,Manchester Utd,1.4,0–3,1.8,Liverpool
+4.0,Sat,2024-09-14,12:30,Southampton,1.1,0–3,2.6,Manchester Utd
+4.0,Sat,2024-09-14,15:00,Brighton,1.6,0–0,0.3,Ipswich Town
+4.0,Sat,2024-09-14,15:00,Crystal Palace,2.5,2–2,1.2,Leicester City
+4.0,Sat,2024-09-14,15:00,Manchester City,2.1,2–1,1.0,Brentford
+4.0,Sat,2024-09-14,15:00,Liverpool,0.9,0–1,0.4,Nott'ham Forest
+4.0,Sat,2024-09-14,15:00,Fulham,1.5,1–1,0.8,West Ham
+4.0,Sat,2024-09-14,17:30,Aston Villa,2.1,3–2,0.9,Everton
+4.0,Sat,2024-09-14,20:00,Bournemouth,1.7,0–1,0.8,Chelsea
+4.0,Sun,2024-09-15,14:00,Tottenham,0.7,0–1,0.7,Arsenal
+4.0,Sun,2024-09-15,16:30,Wolves,1.2,1–2,1.5,Newcastle Utd
+5.0,Sat,2024-09-21,12:30,West Ham,,,,Chelsea
+5.0,Sat,2024-09-21,15:00,Liverpool,,,,Bournemouth
+5.0,Sat,2024-09-21,15:00,Leicester City,,,,Everton
+5.0,Sat,2024-09-21,15:00,Southampton,,,,Ipswich Town
+5.0,Sat,2024-09-21,15:00,Tottenham,,,,Brentford
+5.0,Sat,2024-09-21,15:00,Fulham,,,,Newcastle Utd
+5.0,Sat,2024-09-21,15:00,Aston Villa,,,,Wolves
+5.0,Sat,2024-09-21,17:30,Crystal Palace,,,,Manchester Utd
+5.0,Sun,2024-09-22,14:00,Brighton,,,,Nott'ham Forest
+5.0,Sun,2024-09-22,16:30,Manchester City,,,,Arsenal
+6.0,Sat,2024-09-28,12:30,Newcastle Utd,,,,Manchester City
+6.0,Sat,2024-09-28,15:00,Chelsea,,,,Brighton
+6.0,Sat,2024-09-28,15:00,Arsenal,,,,Leicester City
+6.0,Sat,2024-09-28,15:00,Brentford,,,,West Ham
+6.0,Sat,2024-09-28,15:00,Everton,,,,Crystal Palace
+6.0,Sat,2024-09-28,15:00,Nott'ham Forest,,,,Fulham
+6.0,Sat,2024-09-28,17:30,Wolves,,,,Liverpool
+6.0,Sun,2024-09-29,14:00,Ipswich Town,,,,Aston Villa
+6.0,Sun,2024-09-29,16:30,Manchester Utd,,,,Tottenham
+6.0,Mon,2024-09-30,20:00,Bournemouth,,,,Southampton
+7.0,Sat,2024-10-05,12:30,Crystal Palace,,,,Liverpool
+7.0,Sat,2024-10-05,15:00,Manchester City,,,,Fulham
+7.0,Sat,2024-10-05,15:00,Brentford,,,,Wolves
+7.0,Sat,2024-10-05,15:00,West Ham,,,,Ipswich Town
+7.0,Sat,2024-10-05,15:00,Arsenal,,,,Southampton
+7.0,Sat,2024-10-05,15:00,Leicester City,,,,Bournemouth
+7.0,Sat,2024-10-05,17:30,Everton,,,,Newcastle Utd
+7.0,Sun,2024-10-06,14:00,Aston Villa,,,,Manchester Utd
+7.0,Sun,2024-10-06,14:00,Chelsea,,,,Nott'ham Forest
+7.0,Sun,2024-10-06,16:30,Brighton,,,,Tottenham
+8.0,Sat,2024-10-19,12:30,Tottenham,,,,West Ham
+8.0,Sat,2024-10-19,15:00,Southampton,,,,Leicester City
+8.0,Sat,2024-10-19,15:00,Ipswich Town,,,,Everton
+8.0,Sat,2024-10-19,15:00,Newcastle Utd,,,,Brighton
+8.0,Sat,2024-10-19,15:00,Fulham,,,,Aston Villa
+8.0,Sat,2024-10-19,15:00,Manchester Utd,,,,Brentford
+8.0,Sat,2024-10-19,17:30,Bournemouth,,,,Arsenal
+8.0,Sun,2024-10-20,14:00,Wolves,,,,Manchester City
+8.0,Sun,2024-10-20,16:30,Liverpool,,,,Chelsea
+8.0,Mon,2024-10-21,20:00,Nott'ham Forest,,,,Crystal Palace
+9.0,Fri,2024-10-25,20:00,Leicester City,,,,Nott'ham Forest
+9.0,Sat,2024-10-26,15:00,Brentford,,,,Ipswich Town
+9.0,Sat,2024-10-26,15:00,Brighton,,,,Wolves
+9.0,Sat,2024-10-26,15:00,Manchester City,,,,Southampton
+9.0,Sat,2024-10-26,15:00,Aston Villa,,,,Bournemouth
+9.0,Sat,2024-10-26,17:30,Everton,,,,Fulham
+9.0,Sun,2024-10-27,14:00,Chelsea,,,,Newcastle Utd
+9.0,Sun,2024-10-27,14:00,West Ham,,,,Manchester Utd
+9.0,Sun,2024-10-27,14:00,Crystal Palace,,,,Tottenham
+9.0,Sun,2024-10-27,16:30,Arsenal,,,,Liverpool
+10.0,Sat,2024-11-02,12:30,Newcastle Utd,,,,Arsenal
+10.0,Sat,2024-11-02,15:00,Southampton,,,,Everton
+10.0,Sat,2024-11-02,15:00,Liverpool,,,,Brighton
+10.0,Sat,2024-11-02,15:00,Nott'ham Forest,,,,West Ham
+10.0,Sat,2024-11-02,15:00,Ipswich Town,,,,Leicester City
+10.0,Sat,2024-11-02,15:00,Bournemouth,,,,Manchester City
+10.0,Sat,2024-11-02,17:30,Wolves,,,,Crystal Palace
+10.0,Sun,2024-11-03,14:00,Tottenham,,,,Aston Villa
+10.0,Sun,2024-11-03,16:30,Manchester Utd,,,,Chelsea
+10.0,Mon,2024-11-04,20:00,Fulham,,,,Brentford
+11.0,Sat,2024-11-09,15:00,Brentford,,,,Bournemouth
+11.0,Sat,2024-11-09,15:00,West Ham,,,,Everton
+11.0,Sat,2024-11-09,15:00,Crystal Palace,,,,Fulham
+11.0,Sat,2024-11-09,15:00,Wolves,,,,Southampton
+11.0,Sat,2024-11-09,17:30,Brighton,,,,Manchester City
+11.0,Sat,2024-11-09,20:00,Liverpool,,,,Aston Villa
+11.0,Sun,2024-11-10,14:00,Manchester Utd,,,,Leicester City
+11.0,Sun,2024-11-10,14:00,Nott'ham Forest,,,,Newcastle Utd
+11.0,Sun,2024-11-10,14:00,Tottenham,,,,Ipswich Town
+11.0,Sun,2024-11-10,16:30,Chelsea,,,,Arsenal
+12.0,Sat,2024-11-23,12:30,Leicester City,,,,Chelsea
+12.0,Sat,2024-11-23,15:00,Arsenal,,,,Nott'ham Forest
+12.0,Sat,2024-11-23,15:00,Bournemouth,,,,Brighton
+12.0,Sat,2024-11-23,15:00,Aston Villa,,,,Crystal Palace
+12.0,Sat,2024-11-23,15:00,Everton,,,,Brentford
+12.0,Sat,2024-11-23,15:00,Fulham,,,,Wolves
+12.0,Sat,2024-11-23,17:30,Manchester City,,,,Tottenham
+12.0,Sun,2024-11-24,14:00,Southampton,,,,Liverpool
+12.0,Sun,2024-11-24,16:30,Ipswich Town,,,,Manchester Utd
+12.0,Mon,2024-11-25,20:00,Newcastle Utd,,,,West Ham
+13.0,Fri,2024-11-29,20:00,Brighton,,,,Southampton
+13.0,Sat,2024-11-30,15:00,Crystal Palace,,,,Newcastle Utd
+13.0,Sat,2024-11-30,15:00,Wolves,,,,Bournemouth
+13.0,Sat,2024-11-30,15:00,Nott'ham Forest,,,,Ipswich Town
+13.0,Sat,2024-11-30,15:00,Brentford,,,,Leicester City
+13.0,Sat,2024-11-30,17:30,West Ham,,,,Arsenal
+13.0,Sun,2024-12-01,13:30,Chelsea,,,,Aston Villa
+13.0,Sun,2024-12-01,13:30,Tottenham,,,,Fulham
+13.0,Sun,2024-12-01,13:30,Manchester Utd,,,,Everton
+13.0,Sun,2024-12-01,16:00,Liverpool,,,,Manchester City
+14.0,Tue,2024-12-03,19:45,Fulham,,,,Brighton
+14.0,Tue,2024-12-03,19:45,Leicester City,,,,West Ham
+14.0,Tue,2024-12-03,19:45,Everton,,,,Wolves
+14.0,Tue,2024-12-03,19:45,Arsenal,,,,Manchester Utd
+14.0,Tue,2024-12-03,19:45,Aston Villa,,,,Brentford
+14.0,Tue,2024-12-03,19:45,Bournemouth,,,,Tottenham
+14.0,Tue,2024-12-03,19:45,Ipswich Town,,,,Crystal Palace
+14.0,Wed,2024-12-04,19:45,Newcastle Utd,,,,Liverpool
+14.0,Wed,2024-12-04,19:45,Manchester City,,,,Nott'ham Forest
+14.0,Wed,2024-12-04,19:45,Southampton,,,,Chelsea
+15.0,Sat,2024-12-07,15:00,Fulham,,,,Arsenal
+15.0,Sat,2024-12-07,15:00,Manchester Utd,,,,Nott'ham Forest
+15.0,Sat,2024-12-07,15:00,Brentford,,,,Newcastle Utd
+15.0,Sat,2024-12-07,15:00,Ipswich Town,,,,Bournemouth
+15.0,Sat,2024-12-07,15:00,West Ham,,,,Wolves
+15.0,Sat,2024-12-07,15:00,Crystal Palace,,,,Manchester City
+15.0,Sat,2024-12-07,15:00,Leicester City,,,,Brighton
+15.0,Sat,2024-12-07,15:00,Everton,,,,Liverpool
+15.0,Sat,2024-12-07,15:00,Aston Villa,,,,Southampton
+15.0,Sat,2024-12-07,15:00,Tottenham,,,,Chelsea
+16.0,Sat,2024-12-14,15:00,Newcastle Utd,,,,Leicester City
+16.0,Sat,2024-12-14,15:00,Nott'ham Forest,,,,Aston Villa
+16.0,Sat,2024-12-14,15:00,Arsenal,,,,Everton
+16.0,Sat,2024-12-14,15:00,Southampton,,,,Tottenham
+16.0,Sat,2024-12-14,15:00,Manchester City,,,,Manchester Utd
+16.0,Sat,2024-12-14,15:00,Wolves,,,,Ipswich Town
+16.0,Sat,2024-12-14,15:00,Bournemouth,,,,West Ham
+16.0,Sat,2024-12-14,15:00,Chelsea,,,,Brentford
+16.0,Sat,2024-12-14,15:00,Liverpool,,,,Fulham
+16.0,Sat,2024-12-14,15:00,Brighton,,,,Crystal Palace
+17.0,Sat,2024-12-21,15:00,West Ham,,,,Brighton
+17.0,Sat,2024-12-21,15:00,Brentford,,,,Nott'ham Forest
+17.0,Sat,2024-12-21,15:00,Tottenham,,,,Liverpool
+17.0,Sat,2024-12-21,15:00,Crystal Palace,,,,Arsenal
+17.0,Sat,2024-12-21,15:00,Ipswich Town,,,,Newcastle Utd
+17.0,Sat,2024-12-21,15:00,Manchester Utd,,,,Bournemouth
+17.0,Sat,2024-12-21,15:00,Fulham,,,,Southampton
+17.0,Sat,2024-12-21,15:00,Aston Villa,,,,Manchester City
+17.0,Sat,2024-12-21,15:00,Everton,,,,Chelsea
+17.0,Sat,2024-12-21,15:00,Leicester City,,,,Wolves
+18.0,Thu,2024-12-26,15:00,Chelsea,,,,Fulham
+18.0,Thu,2024-12-26,15:00,Brighton,,,,Brentford
+18.0,Thu,2024-12-26,15:00,Liverpool,,,,Leicester City
+18.0,Thu,2024-12-26,15:00,Arsenal,,,,Ipswich Town
+18.0,Thu,2024-12-26,15:00,Wolves,,,,Manchester Utd
+18.0,Thu,2024-12-26,15:00,Southampton,,,,West Ham
+18.0,Thu,2024-12-26,15:00,Manchester City,,,,Everton
+18.0,Thu,2024-12-26,15:00,Bournemouth,,,,Crystal Palace
+18.0,Thu,2024-12-26,15:00,Newcastle Utd,,,,Aston Villa
+18.0,Thu,2024-12-26,15:00,Nott'ham Forest,,,,Tottenham
+19.0,Sun,2024-12-29,15:00,Tottenham,,,,Wolves
+19.0,Sun,2024-12-29,15:00,Fulham,,,,Bournemouth
+19.0,Sun,2024-12-29,15:00,Aston Villa,,,,Brighton
+19.0,Sun,2024-12-29,15:00,Everton,,,,Nott'ham Forest
+19.0,Sun,2024-12-29,15:00,Crystal Palace,,,,Southampton
+19.0,Sun,2024-12-29,15:00,Brentford,,,,Arsenal
+19.0,Sun,2024-12-29,15:00,Ipswich Town,,,,Chelsea
+19.0,Sun,2024-12-29,15:00,Leicester City,,,,Manchester City
+19.0,Sun,2024-12-29,15:00,Manchester Utd,,,,Newcastle Utd
+19.0,Sun,2024-12-29,15:00,West Ham,,,,Liverpool
+20.0,Sat,2025-01-04,15:00,Southampton,,,,Brentford
+20.0,Sat,2025-01-04,15:00,Bournemouth,,,,Everton
+20.0,Sat,2025-01-04,15:00,Liverpool,,,,Manchester Utd
+20.0,Sat,2025-01-04,15:00,Brighton,,,,Arsenal
+20.0,Sat,2025-01-04,15:00,Wolves,,,,Nott'ham Forest
+20.0,Sat,2025-01-04,15:00,Fulham,,,,Ipswich Town
+20.0,Sat,2025-01-04,15:00,Tottenham,,,,Newcastle Utd
+20.0,Sat,2025-01-04,15:00,Crystal Palace,,,,Chelsea
+20.0,Sat,2025-01-04,15:00,Manchester City,,,,West Ham
+20.0,Sat,2025-01-04,15:00,Aston Villa,,,,Leicester City
+21.0,Tue,2025-01-14,19:45,Nott'ham Forest,,,,Liverpool
+21.0,Tue,2025-01-14,19:45,Everton,,,,Aston Villa
+21.0,Tue,2025-01-14,19:45,Brentford,,,,Manchester City
+21.0,Tue,2025-01-14,19:45,Leicester City,,,,Crystal Palace
+21.0,Tue,2025-01-14,19:45,Ipswich Town,,,,Brighton
+21.0,Tue,2025-01-14,19:45,West Ham,,,,Fulham
+21.0,Tue,2025-01-14,19:45,Arsenal,,,,Tottenham
+21.0,Wed,2025-01-15,19:45,Newcastle Utd,,,,Wolves
+21.0,Wed,2025-01-15,19:45,Chelsea,,,,Bournemouth
+21.0,Wed,2025-01-15,20:00,Manchester Utd,,,,Southampton
+22.0,Sat,2025-01-18,15:00,West Ham,,,,Crystal Palace
+22.0,Sat,2025-01-18,15:00,Arsenal,,,,Aston Villa
+22.0,Sat,2025-01-18,15:00,Manchester Utd,,,,Brighton
+22.0,Sat,2025-01-18,15:00,Brentford,,,,Liverpool
+22.0,Sat,2025-01-18,15:00,Ipswich Town,,,,Manchester City
+22.0,Sat,2025-01-18,15:00,Newcastle Utd,,,,Bournemouth
+22.0,Sat,2025-01-18,15:00,Leicester City,,,,Fulham
+22.0,Sat,2025-01-18,15:00,Nott'ham Forest,,,,Southampton
+22.0,Sat,2025-01-18,15:00,Chelsea,,,,Wolves
+22.0,Sat,2025-01-18,15:00,Everton,,,,Tottenham
+23.0,Sat,2025-01-25,15:00,Wolves,,,,Arsenal
+23.0,Sat,2025-01-25,15:00,Crystal Palace,,,,Brentford
+23.0,Sat,2025-01-25,15:00,Southampton,,,,Newcastle Utd
+23.0,Sat,2025-01-25,15:00,Tottenham,,,,Leicester City
+23.0,Sat,2025-01-25,15:00,Brighton,,,,Everton
+23.0,Sat,2025-01-25,15:00,Aston Villa,,,,West Ham
+23.0,Sat,2025-01-25,15:00,Manchester City,,,,Chelsea
+23.0,Sat,2025-01-25,15:00,Fulham,,,,Manchester Utd
+23.0,Sat,2025-01-25,15:00,Liverpool,,,,Ipswich Town
+23.0,Sat,2025-01-25,15:00,Bournemouth,,,,Nott'ham Forest
+24.0,Sat,2025-02-01,15:00,Ipswich Town,,,,Southampton
+24.0,Sat,2025-02-01,15:00,Arsenal,,,,Manchester City
+24.0,Sat,2025-02-01,15:00,Everton,,,,Leicester City
+24.0,Sat,2025-02-01,15:00,Newcastle Utd,,,,Fulham
+24.0,Sat,2025-02-01,15:00,Wolves,,,,Aston Villa
+24.0,Sat,2025-02-01,15:00,Brentford,,,,Tottenham
+24.0,Sat,2025-02-01,15:00,Manchester Utd,,,,Crystal Palace
+24.0,Sat,2025-02-01,15:00,Bournemouth,,,,Liverpool
+24.0,Sat,2025-02-01,15:00,Nott'ham Forest,,,,Brighton
+24.0,Sat,2025-02-01,15:00,Chelsea,,,,West Ham
+25.0,Sat,2025-02-15,15:00,Aston Villa,,,,Ipswich Town
+25.0,Sat,2025-02-15,15:00,Tottenham,,,,Manchester Utd
+25.0,Sat,2025-02-15,15:00,Crystal Palace,,,,Everton
+25.0,Sat,2025-02-15,15:00,Fulham,,,,Nott'ham Forest
+25.0,Sat,2025-02-15,15:00,Liverpool,,,,Wolves
+25.0,Sat,2025-02-15,15:00,West Ham,,,,Brentford
+25.0,Sat,2025-02-15,15:00,Manchester City,,,,Newcastle Utd
+25.0,Sat,2025-02-15,15:00,Leicester City,,,,Arsenal
+25.0,Sat,2025-02-15,15:00,Southampton,,,,Bournemouth
+25.0,Sat,2025-02-15,15:00,Brighton,,,,Chelsea
+26.0,Sat,2025-02-22,15:00,Aston Villa,,,,Chelsea
+26.0,Sat,2025-02-22,15:00,Fulham,,,,Crystal Palace
+26.0,Sat,2025-02-22,15:00,Ipswich Town,,,,Tottenham
+26.0,Sat,2025-02-22,15:00,Newcastle Utd,,,,Nott'ham Forest
+26.0,Sat,2025-02-22,15:00,Bournemouth,,,,Wolves
+26.0,Sat,2025-02-22,15:00,Leicester City,,,,Brentford
+26.0,Sat,2025-02-22,15:00,Arsenal,,,,West Ham
+26.0,Sat,2025-02-22,15:00,Manchester City,,,,Liverpool
+26.0,Sat,2025-02-22,15:00,Everton,,,,Manchester Utd
+26.0,Sat,2025-02-22,15:00,Southampton,,,,Brighton
+27.0,Tue,2025-02-25,19:45,West Ham,,,,Leicester City
+27.0,Tue,2025-02-25,19:45,Brentford,,,,Everton
+27.0,Tue,2025-02-25,19:45,Tottenham,,,,Manchester City
+27.0,Tue,2025-02-25,19:45,Wolves,,,,Fulham
+27.0,Tue,2025-02-25,19:45,Nott'ham Forest,,,,Arsenal
+27.0,Tue,2025-02-25,19:45,Brighton,,,,Bournemouth
+27.0,Tue,2025-02-25,20:00,Crystal Palace,,,,Aston Villa
+27.0,Wed,2025-02-26,19:45,Chelsea,,,,Southampton
+27.0,Wed,2025-02-26,20:00,Liverpool,,,,Newcastle Utd
+27.0,Wed,2025-02-26,20:00,Manchester Utd,,,,Ipswich Town
+28.0,Sat,2025-03-08,15:00,Liverpool,,,,Southampton
+28.0,Sat,2025-03-08,15:00,Chelsea,,,,Leicester City
+28.0,Sat,2025-03-08,15:00,Wolves,,,,Everton
+28.0,Sat,2025-03-08,15:00,West Ham,,,,Newcastle Utd
+28.0,Sat,2025-03-08,15:00,Tottenham,,,,Bournemouth
+28.0,Sat,2025-03-08,15:00,Manchester Utd,,,,Arsenal
+28.0,Sat,2025-03-08,15:00,Crystal Palace,,,,Ipswich Town
+28.0,Sat,2025-03-08,15:00,Nott'ham Forest,,,,Manchester City
+28.0,Sat,2025-03-08,15:00,Brighton,,,,Fulham
+28.0,Sat,2025-03-08,15:00,Brentford,,,,Aston Villa
+29.0,Sat,2025-03-15,15:00,Arsenal,,,,Chelsea
+29.0,Sat,2025-03-15,15:00,Aston Villa,,,,Liverpool
+29.0,Sat,2025-03-15,15:00,Fulham,,,,Tottenham
+29.0,Sat,2025-03-15,15:00,Newcastle Utd,,,,Crystal Palace
+29.0,Sat,2025-03-15,15:00,Leicester City,,,,Manchester Utd
+29.0,Sat,2025-03-15,15:00,Manchester City,,,,Brighton
+29.0,Sat,2025-03-15,15:00,Ipswich Town,,,,Nott'ham Forest
+29.0,Sat,2025-03-15,15:00,Everton,,,,West Ham
+29.0,Sat,2025-03-15,15:00,Southampton,,,,Wolves
+29.0,Sat,2025-03-15,15:00,Bournemouth,,,,Brentford
+30.0,Tue,2025-04-01,19:45,Brighton,,,,Aston Villa
+30.0,Tue,2025-04-01,19:45,Bournemouth,,,,Ipswich Town
+30.0,Tue,2025-04-01,19:45,Wolves,,,,West Ham
+30.0,Tue,2025-04-01,19:45,Arsenal,,,,Fulham
+30.0,Tue,2025-04-01,19:45,Nott'ham Forest,,,,Manchester Utd
+30.0,Wed,2025-04-02,19:45,Southampton,,,,Crystal Palace
+30.0,Wed,2025-04-02,19:45,Chelsea,,,,Tottenham
+30.0,Wed,2025-04-02,19:45,Manchester City,,,,Leicester City
+30.0,Wed,2025-04-02,19:45,Newcastle Utd,,,,Brentford
+30.0,Wed,2025-04-02,20:00,Liverpool,,,,Everton
+31.0,Sat,2025-04-05,15:00,West Ham,,,,Bournemouth
+31.0,Sat,2025-04-05,15:00,Manchester Utd,,,,Manchester City
+31.0,Sat,2025-04-05,15:00,Brentford,,,,Chelsea
+31.0,Sat,2025-04-05,15:00,Aston Villa,,,,Nott'ham Forest
+31.0,Sat,2025-04-05,15:00,Everton,,,,Arsenal
+31.0,Sat,2025-04-05,15:00,Fulham,,,,Liverpool
+31.0,Sat,2025-04-05,15:00,Ipswich Town,,,,Wolves
+31.0,Sat,2025-04-05,15:00,Leicester City,,,,Newcastle Utd
+31.0,Sat,2025-04-05,15:00,Crystal Palace,,,,Brighton
+31.0,Sat,2025-04-05,15:00,Tottenham,,,,Southampton
+32.0,Sat,2025-04-12,15:00,Bournemouth,,,,Fulham
+32.0,Sat,2025-04-12,15:00,Newcastle Utd,,,,Manchester Utd
+32.0,Sat,2025-04-12,15:00,Arsenal,,,,Brentford
+32.0,Sat,2025-04-12,15:00,Liverpool,,,,West Ham
+32.0,Sat,2025-04-12,15:00,Wolves,,,,Tottenham
+32.0,Sat,2025-04-12,15:00,Brighton,,,,Leicester City
+32.0,Sat,2025-04-12,15:00,Manchester City,,,,Crystal Palace
+32.0,Sat,2025-04-12,15:00,Nott'ham Forest,,,,Everton
+32.0,Sat,2025-04-12,15:00,Chelsea,,,,Ipswich Town
+32.0,Sat,2025-04-12,15:00,Southampton,,,,Aston Villa
+33.0,Sat,2025-04-19,15:00,Leicester City,,,,Liverpool
+33.0,Sat,2025-04-19,15:00,Ipswich Town,,,,Arsenal
+33.0,Sat,2025-04-19,15:00,Brentford,,,,Brighton
+33.0,Sat,2025-04-19,15:00,Aston Villa,,,,Newcastle Utd
+33.0,Sat,2025-04-19,15:00,Tottenham,,,,Nott'ham Forest
+33.0,Sat,2025-04-19,15:00,West Ham,,,,Southampton
+33.0,Sat,2025-04-19,15:00,Crystal Palace,,,,Bournemouth
+33.0,Sat,2025-04-19,15:00,Everton,,,,Manchester City
+33.0,Sat,2025-04-19,15:00,Fulham,,,,Chelsea
+33.0,Sat,2025-04-19,15:00,Manchester Utd,,,,Wolves
+34.0,Sat,2025-04-26,15:00,Chelsea,,,,Everton
+34.0,Sat,2025-04-26,15:00,Wolves,,,,Leicester City
+34.0,Sat,2025-04-26,15:00,Newcastle Utd,,,,Ipswich Town
+34.0,Sat,2025-04-26,15:00,Manchester City,,,,Aston Villa
+34.0,Sat,2025-04-26,15:00,Liverpool,,,,Tottenham
+34.0,Sat,2025-04-26,15:00,Arsenal,,,,Crystal Palace
+34.0,Sat,2025-04-26,15:00,Bournemouth,,,,Manchester Utd
+34.0,Sat,2025-04-26,15:00,Southampton,,,,Fulham
+34.0,Sat,2025-04-26,15:00,Nott'ham Forest,,,,Brentford
+34.0,Sat,2025-04-26,15:00,Brighton,,,,West Ham
+35.0,Sat,2025-05-03,15:00,Chelsea,,,,Liverpool
+35.0,Sat,2025-05-03,15:00,Brentford,,,,Manchester Utd
+35.0,Sat,2025-05-03,15:00,Manchester City,,,,Wolves
+35.0,Sat,2025-05-03,15:00,West Ham,,,,Tottenham
+35.0,Sat,2025-05-03,15:00,Crystal Palace,,,,Nott'ham Forest
+35.0,Sat,2025-05-03,15:00,Arsenal,,,,Bournemouth
+35.0,Sat,2025-05-03,15:00,Everton,,,,Ipswich Town
+35.0,Sat,2025-05-03,15:00,Aston Villa,,,,Fulham
+35.0,Sat,2025-05-03,15:00,Brighton,,,,Newcastle Utd
+35.0,Sat,2025-05-03,15:00,Leicester City,,,,Southampton
+36.0,Sat,2025-05-10,15:00,Liverpool,,,,Arsenal
+36.0,Sat,2025-05-10,15:00,Southampton,,,,Manchester City
+36.0,Sat,2025-05-10,15:00,Tottenham,,,,Crystal Palace
+36.0,Sat,2025-05-10,15:00,Fulham,,,,Everton
+36.0,Sat,2025-05-10,15:00,Newcastle Utd,,,,Chelsea
+36.0,Sat,2025-05-10,15:00,Nott'ham Forest,,,,Leicester City
+36.0,Sat,2025-05-10,15:00,Manchester Utd,,,,West Ham
+36.0,Sat,2025-05-10,15:00,Bournemouth,,,,Aston Villa
+36.0,Sat,2025-05-10,15:00,Ipswich Town,,,,Brentford
+36.0,Sat,2025-05-10,15:00,Wolves,,,,Brighton
+37.0,Sun,2025-05-18,15:00,Brentford,,,,Fulham
+37.0,Sun,2025-05-18,15:00,Arsenal,,,,Newcastle Utd
+37.0,Sun,2025-05-18,15:00,Brighton,,,,Liverpool
+37.0,Sun,2025-05-18,15:00,Leicester City,,,,Ipswich Town
+37.0,Sun,2025-05-18,15:00,West Ham,,,,Nott'ham Forest
+37.0,Sun,2025-05-18,15:00,Everton,,,,Southampton
+37.0,Sun,2025-05-18,15:00,Aston Villa,,,,Tottenham
+37.0,Sun,2025-05-18,15:00,Chelsea,,,,Manchester Utd
+37.0,Sun,2025-05-18,15:00,Manchester City,,,,Bournemouth
+37.0,Sun,2025-05-18,15:00,Crystal Palace,,,,Wolves
+38.0,Sun,2025-05-25,16:00,Southampton,,,,Arsenal
+38.0,Sun,2025-05-25,16:00,Liverpool,,,,Crystal Palace
+38.0,Sun,2025-05-25,16:00,Ipswich Town,,,,West Ham
+38.0,Sun,2025-05-25,16:00,Bournemouth,,,,Leicester City
+38.0,Sun,2025-05-25,16:00,Newcastle Utd,,,,Everton
+38.0,Sun,2025-05-25,16:00,Fulham,,,,Manchester City
+38.0,Sun,2025-05-25,16:00,Nott'ham Forest,,,,Chelsea
+38.0,Sun,2025-05-25,16:00,Manchester Utd,,,,Aston Villa
+38.0,Sun,2025-05-25,16:00,Wolves,,,,Brentford
+38.0,Sun,2025-05-25,16:00,Tottenham,,,,Brighton
