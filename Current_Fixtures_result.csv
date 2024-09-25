@@ -39,16 +39,16 @@ Wk,Day,Date,Time,Home,xG,Score,xG.1,Away
 4.0,Sat,2024-09-14,20:00,Bournemouth,1.7,0–1,0.8,Chelsea
 4.0,Sun,2024-09-15,14:00,Tottenham,0.7,0–1,0.7,Arsenal
 4.0,Sun,2024-09-15,16:30,Wolves,1.2,1–2,1.5,Newcastle Utd
-5.0,Sat,2024-09-21,12:30,West Ham,,,,Chelsea
-5.0,Sat,2024-09-21,15:00,Liverpool,,,,Bournemouth
-5.0,Sat,2024-09-21,15:00,Leicester City,,,,Everton
-5.0,Sat,2024-09-21,15:00,Southampton,,,,Ipswich Town
-5.0,Sat,2024-09-21,15:00,Tottenham,,,,Brentford
-5.0,Sat,2024-09-21,15:00,Fulham,,,,Newcastle Utd
-5.0,Sat,2024-09-21,15:00,Aston Villa,,,,Wolves
-5.0,Sat,2024-09-21,17:30,Crystal Palace,,,,Manchester Utd
-5.0,Sun,2024-09-22,14:00,Brighton,,,,Nott'ham Forest
-5.0,Sun,2024-09-22,16:30,Manchester City,,,,Arsenal
+5.0,Sat,2024-09-21,12:30,West Ham,0.9,0–3,2.2,Chelsea
+5.0,Sat,2024-09-21,15:00,Liverpool,2.0,3–0,1.1,Bournemouth
+5.0,Sat,2024-09-21,15:00,Leicester City,0.7,1–1,1.1,Everton
+5.0,Sat,2024-09-21,15:00,Southampton,2.4,1–1,1.6,Ipswich Town
+5.0,Sat,2024-09-21,15:00,Tottenham,3.5,3–1,0.8,Brentford
+5.0,Sat,2024-09-21,15:00,Fulham,2.2,3–1,1.5,Newcastle Utd
+5.0,Sat,2024-09-21,15:00,Aston Villa,1.7,3–1,0.5,Wolves
+5.0,Sat,2024-09-21,17:30,Crystal Palace,1.0,0–0,1.6,Manchester Utd
+5.0,Sun,2024-09-22,14:00,Brighton,1.0,2–2,1.4,Nott'ham Forest
+5.0,Sun,2024-09-22,16:30,Manchester City,2.1,2–2,0.7,Arsenal
 6.0,Sat,2024-09-28,12:30,Newcastle Utd,,,,Manchester City
 6.0,Sat,2024-09-28,15:00,Chelsea,,,,Brighton
 6.0,Sat,2024-09-28,15:00,Arsenal,,,,Leicester City
