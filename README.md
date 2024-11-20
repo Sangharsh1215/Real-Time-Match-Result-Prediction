@@ -56,3 +56,7 @@ In addition to predicting match outcomes, the project includes a comprehensive a
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/epl-match-prediction.git
+![1729004279882](https://github.com/user-attachments/assets/43ec2359-5e3a-4990-8797-1d7d10d428ee)
+![1729004280595](https://github.com/user-attachments/assets/53ae9391-0833-46ab-87ba-9fcbe3d664e2)
+![1729004280706](https://github.com/user-attachments/assets/00abcaa5-5dad-4e07-9694-734093e6d7fb)
+![1729004280481](https://github.com/user-attachments/assets/692e56c8-4d97-453f-9da0-a85490c4305e)
